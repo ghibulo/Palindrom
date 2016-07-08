@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1450714751 source:/home/ghibulo/Dropbox/programovani/ansiC++/Palindrom/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pole.h"
+	"grandint.h"
+	<time.h>
+
+1450526135 /home/ghibulo/Dropbox/programovani/ansiC++/Palindrom/pole.h
+
+1450526135 source:/home/ghibulo/Dropbox/programovani/ansiC++/Palindrom/pole.c
+	"pole.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1450532262 source:/home/ghibulo/Dropbox/programovani/ansiC++/Palindrom/grandint.c
+	"pole.h"
+	"grandint.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1450526135 /home/ghibulo/Dropbox/programovani/ansiC++/Palindrom/grandint.h
+	"pole.h"
+
